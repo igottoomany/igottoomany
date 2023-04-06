@@ -2,6 +2,8 @@
 <div class="row">
   <img src="https://img.shields.io/badge/-42seoul-000000?style=for-the-badge&logo=42&logoColor=white" width="30%" height="30%"/>
 </div>
+![igottoomany's GitHub stats](https://github-readme-stats.vercel.app/api?username=igottoomany&show_icons=true&theme=highcontrast)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igottoomany&layout=compact&theme=dark)
 
 <div>
   
